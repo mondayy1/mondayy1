@@ -25,12 +25,8 @@
 [![CodeForces Profile](https://cf.leed.at?id=Mondayy)](https://codeforces.com/profile/Mondayy) 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
-
-
 <div align=""><h1>Contact</h1></div>
-  <a href="hojoong310@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hojoong310@gmail.com"/></a>
-</p>
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmondayy1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
