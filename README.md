@@ -10,4 +10,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-  
+
+[![CodeForces Profile](https://cf.leed.at?id={mondayy})](https://codeforces.com/profile/{mondayy})
