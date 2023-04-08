@@ -8,8 +8,7 @@
 
 
 <div align=""><h1>Contact</h1></div>
-<div align="">
-<a href="hojoong310@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
 </p>
 
 <div align=""><h1>STACKS</h1></div>
