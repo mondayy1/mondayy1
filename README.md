@@ -1,11 +1,6 @@
 
 <p align="">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
-<p align="">
-  Hi, I'm <b>HoJoong</b>. Majoring in Computer Engineering. <br/>
-  I'm interested in <b>Back-end Develmopment</b>, <b>Data Engineering</b>, and <b>Competitive Programming.</b> <br/>
-</p>
-<br>
 
 <div align=""><h1>Stacks</h1></div>
 <div align=""> 
