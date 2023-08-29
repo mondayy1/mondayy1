@@ -15,13 +15,15 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   </br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 </div>
 </br>
 
 <div align=""><h1>PS</h1></div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1) [![CodeForces Profile](https://cf.leed.at?id=mondayy1)](https://codeforces.com/profile/mondayy1) 
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1)
 
 </br>
 
