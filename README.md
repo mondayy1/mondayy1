@@ -1,11 +1,4 @@
-
-<p align="">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient">
-  </br>
- </p>
-
- </br>
- 
+Junior Data Engineer:rocket:
 
 <div align=""><h1>Stacks</h1></div>
 <div align="">
