@@ -17,15 +17,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   
-</div>
 </br>
 
 <div align=""><h1>Experience</h1></div>
-BML Lab (2023.07 ~ )
+*BML Lab (2023.07 ~ )
 
 </br>
 
-</div>
+<div align=""><h1>Awards</h1></div>
+11th K-hacakathon
 
 </br>
 
@@ -33,8 +33,6 @@ BML Lab (2023.07 ~ )
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1)
-
-</div>
 
 </br>
 
