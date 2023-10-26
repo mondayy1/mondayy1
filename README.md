@@ -24,12 +24,6 @@
 
 </br>
 
-<h1>Awards</h1>
-
-* 11th K-hacakathon
-
-</br>
-
 <h1>PS</h1>
 
 [![Solved.ac
