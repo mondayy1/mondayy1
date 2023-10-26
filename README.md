@@ -1,6 +1,5 @@
-<div align=""><h1>Stacks</h1></div>
+<h1>Stacks</h1>
 <div align="">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>
@@ -16,20 +15,22 @@
   </br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-  
+</div>
 </br>
 
-<div align=""><h1>Experience</h1></div>
-*BML Lab (2023.07 ~ )
+<h1>Experience</h1>
 
-</br>
-
-<div align=""><h1>Awards</h1></div>
-11th K-hacakathon
+* BML Lab (2023.07 ~ )
 
 </br>
 
-<div align=""><h1>PS</h1></div>
+<h1>Awards</h1>
+
+* 11th K-hacakathon
+
+</br>
+
+<h1>PS</h1>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1)
