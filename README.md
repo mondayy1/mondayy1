@@ -8,10 +8,20 @@
 <div align="">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"/>
   </br>
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
   </br>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  </br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   
 </div>
 </br>
