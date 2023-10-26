@@ -1,5 +1,3 @@
-Junior Data Engineer:rocket:
-
 <div align=""><h1>Stacks</h1></div>
 <div align="">
   
