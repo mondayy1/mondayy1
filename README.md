@@ -1,7 +1,6 @@
 <h1>Stacks</h1>
 <div align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazonaws&logoColor=white"/>
