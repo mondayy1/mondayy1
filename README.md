@@ -17,12 +17,6 @@
 </div>
 </br>
 
-<h1>Experience</h1>
-
-* BML Lab (2023.07 ~ )
-
-</br>
-
 <h1>PS</h1>
 
 [![Solved.ac
