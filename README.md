@@ -26,7 +26,7 @@
 
 <h1>Stats</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github&custom_title=mondayy1's&nbsp;Github&nbsp;Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact&exclude_repo=SmokerPrediction)
 
 </br>
@@ -38,5 +38,3 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1)
 
 </br>
-
-![Visitors](https://komarev.com/ghpvc/?username=mondayy1&color=green)
