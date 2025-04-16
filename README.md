@@ -24,10 +24,10 @@
 </div>
 </br>
 
-<h1>Github Stats</h1>
+<h1>Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact&exclude_repo=SmokerPrediction)
 
 </br>
 
