@@ -24,6 +24,14 @@
 </div>
 </br>
 
+<h1>Github Stats</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact)
+
+</br>
+
+
 <h1>PS</h1>
 
 [![Solved.ac
@@ -31,4 +39,4 @@
 
 </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmondayy1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![Visitors](https://komarev.com/ghpvc/?username=mondayy1&color=green)
