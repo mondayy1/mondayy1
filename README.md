@@ -3,6 +3,7 @@
 <div align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
@@ -20,7 +21,8 @@
   </br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google%20cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
 </div>
 </br>
@@ -30,10 +32,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github&custom_title=mondayy1's&nbsp;Github&nbsp;Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact&exclude_repo=SmokerPrediction)
-</br>
-
-
-<h1>PS</h1>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mondayy1)](https://solved.ac/mondayy1)
 </br>
