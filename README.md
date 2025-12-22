@@ -30,5 +30,5 @@
 <h1>Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondayy1&show_icons=true&theme=swift&rank_icon=github&custom_title=mondayy1's&nbsp;Github&nbsp;Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact&exclude_repo=SmokerPrediction)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondayy1&layout=compact)
 </br>
